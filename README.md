@@ -3,7 +3,9 @@
 ## Javascript
 
 [모던 Javascript 튜토리얼](https://ko.javascript.info/)  
-자바스크립트의 개념에 관해 이해할 수 있다.
+자바스크립트의 개념에 관해 이해할 수 있다.  
+[RegExr](https://regexr.com/)  
+정규표현식을 테스트해볼 수 있다.
 
 ## CSS
 
